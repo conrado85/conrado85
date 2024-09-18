@@ -24,12 +24,10 @@
 
  ## **No Country** - Simulación Laboral (2024)
 
- Participe en el Desarrollo del diseño.
-
-* frontend
-    * Colaboré en la maquetación y desarrollo de interfaces de usuario utilizando React y Tailwind CSS.
-    * Integré APIs REST para conectar el frontend con el backend, mejorando la comunicación del sistema en un 20%.
-    * Implementé técnicas de optimización como lazy loading y compresión de imágenes, lo que redujo el tiempo de carga de la aplicación en un 15%.
+* Participe en el Desarrollo del diseño.
+* Colaboré en la maquetación y desarrollo de interfaces de usuario utilizando React y Tailwind CSS.
+* Integré APIs REST para conectar el frontend con el backend, mejorando la comunicación del sistema en un 20%.
+* Implementé técnicas de optimización como lazy loading y compresión de imágenes, lo que redujo el tiempo de carga de la aplicación en un 15%.
 
 
 
@@ -39,15 +37,44 @@
 ## **Digital House** (2023)
 
 * ### Programador Web Full Stack - Graduado.
+    * Maquetar un sitio web adaptado a los diferentes dispositivos. 
+    * Incorporar el manejo de buenas prácticas en proyectos.
+    * Conocer y utilizar las herramientas para crear una validación del lado del cliente
+    * Organizar el código de manera eficiente y escalable bajo el patrón de diseño MVC.  
     * Desarrollo de aplicaciones full stack con React y Node.js.
+    * Cómo un ORM facilita la persistencia de los objetos en la base de datos y conocer modelos y su representación de las tablas.
     * Creación de APIs y manejo de bases de datos SQL.
 
 ## **Educación IT** (2017-2021)
 
 * ### Certificaciones obtenidas.  
-    * Java  
+    * Java 
+        * Fundamentos de Java.
+        * Sintaxis y semántica.
+        * Estructuras de control de flujo.
+        * Aplicación de constantes y variables.
+        * Realización de sentencias condicionales.
+        * Vectores: creación, usos y arreglos.
+        * Métodos: funciones y procedimientos.
+
     * Bases de Datos
+        * Fundamentos de las Bases de Datos.
+        * Lenguaje SQL.
+        * Estructuras de consulta.
+        * Operadores, cláusulas y sentencias.
+        * Manipulación de datos.
+        * Registros y agrupamientos.
+        * Construcción de un modelo de Base de Datos.
+        * Tópicos avanzados.
+        
     * Programación orientada a objetos.
+        * Fundamentos del Paradigma de Objetos
+        * Modelos, clases e instancias
+        * Cómo utilizar constructores
+        * Visibilidad y encapsulamiento
+        * Mecanismo de herencia
+        * Poliformismo
+        * Interpretar diagramas básicos de UML
 
 
 # 👋 Habilidades.
