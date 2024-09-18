@@ -3,7 +3,7 @@
 
 👀 **I’m interested in:** Web development and technologies such as HTML, CSS, JavaScript, Node.js, Express.js, Next.js, React, DaisyUI, shadcn/ui, Material UI, React Icons, React Router, and React Hook Form.
 
-🌱 **I’m currently learning:** Advanced techniques in React, state management, and backend development with Node.js, Express.js and postman.
+🌱 **I’m currently learning:** Advanced techniques in React, state management, and backend development with Node.js, Express.js and Postman.
 
 💞️ **I’m looking to collaborate on:** Software solutions for businesses, especially in web development projects that can improve efficiency and user experience.
 
@@ -14,73 +14,68 @@
 
 ***
 
-# 👋 sobre mi.
+# 👋 About me.
 
-**Soy un desarrollador web** orientado a la solución de problemas, con experiencia tanto en frontend como en backend. Me interesa colaborar en proyectos que impulsen la innovación tecnológica y aporten valor a las empresas mediante el uso de tecnologías modernas.
+**I am a web developer** focused on problem-solving, with experience in both frontend and backend. I am interested in collaborating on projects that drive technological innovation and add value to companies through the use of modern technologies.
 
 ***
 
-# 👀 Experiencia laboral.
+# 👀 Work Experience.
 
- ## **No Country** - Simulación Laboral (2024)
+ ## **No Country** - Work Simulation (2024)
 
-* Participe en el Desarrollo del diseño.
-* Colaboré en la maquetación y desarrollo de interfaces de usuario utilizando React y Tailwind CSS.
-* Integré APIs REST para conectar el frontend con el backend, mejorando la comunicación del sistema en un 20%.
-* Implementé técnicas de optimización como lazy loading y compresión de imágenes, lo que redujo el tiempo de carga de la aplicación en un 15%.
+* Participated in design development.
+* Collaborated in the layout and development of user interfaces using React and Tailwind CSS.
+* Integrated REST APIs to connect the frontend with the backend, improving system communication by 20%.
+* Implemented optimization techniques such as lazy loading and image compression, reducing application load times by 15%.
 
-
-
-# 👋 Educacion.
-
+# 👋 Education.
 
 ## **Digital House** (2023)
 
-* ### Programador Web Full Stack - Graduado.
-    * Maquetar un sitio web adaptado a los diferentes dispositivos. 
-    * Incorporar el manejo de buenas prácticas en proyectos.
-    * Conocer y utilizar las herramientas para crear una validación del lado del cliente
-    * Organizar el código de manera eficiente y escalable bajo el patrón de diseño MVC.  
-    * Desarrollo de aplicaciones full stack con React y Node.js.
-    * Cómo un ORM facilita la persistencia de los objetos en la base de datos y conocer modelos y su representación de las tablas.
-    * Creación de APIs y manejo de bases de datos SQL.
+* ### Full Stack Web Developer - Graduate.
+    * Designed a website adapted to different devices.
+    * Applied best practices in project management.
+    * Gained expertise in tools for creating client-side validation.
+    * Organized code efficiently and scalable under the MVC design pattern.
+    * Full stack application development with React and Node.js.
+    * Learned how ORM simplifies object persistence in the database and understanding models and their representation of tables.
+    * API creation and SQL database management.
 
 ## **Educación IT** (2017-2021)
 
-* ### Certificaciones obtenidas.  
+* ### Certifications obtained.
     * Java 
-        * Fundamentos de Java.
-        * Sintaxis y semántica.
-        * Estructuras de control de flujo.
-        * Aplicación de constantes y variables.
-        * Realización de sentencias condicionales.
-        * Vectores: creación, usos y arreglos.
-        * Métodos: funciones y procedimientos.
+        * Java fundamentals.
+        * Syntax and semantics.
+        * Control flow structures.
+        * Application of constants and variables.
+        * Writing conditional statements.
+        * Arrays: creation, uses, and arrangements.
+        * Methods: functions and procedures.
 
-    * Bases de Datos
-        * Fundamentos de las Bases de Datos.
-        * Lenguaje SQL.
-        * Estructuras de consulta.
-        * Operadores, cláusulas y sentencias.
-        * Manipulación de datos.
-        * Registros y agrupamientos.
-        * Construcción de un modelo de Base de Datos.
-        * Tópicos avanzados.
-        
-    * Programación orientada a objetos.
-        * Fundamentos del Paradigma de Objetos
-        * Modelos, clases e instancias
-        * Cómo utilizar constructores
-        * Visibilidad y encapsulamiento
-        * Mecanismo de herencia
-        * Poliformismo
-        * Interpretar diagramas básicos de UML
+    * Databases
+        * Database fundamentals.
+        * SQL language.
+        * Query structures.
+        * Operators, clauses, and statements.
+        * Data manipulation.
+        * Records and grouping.
+        * Building a database model.
+        * Advanced topics.
 
+    * Object-Oriented Programming (OOP)
+        * Fundamentals of the Object Paradigm.
+        * Models, classes, and instances.
+        * How to use constructors.
+        * Visibility and encapsulation.
+        * Inheritance mechanism.
+        * Polymorphism.
+        * Interpreting basic UML diagrams.
 
-# 👋 Habilidades.
+# 👋 Skills.
 
-
-* Frontend: React, Tailwind CSS, Material UI, Bootstrap, Shadcn/UI, JavaScript, HTML, CSS. 
-* Backend: Node.js, Express.js, SQL, JWT, APIs REST.
-* Herramientas: GitHub, Slack, Trello, Figma, Visual Studio Code, Postman.
-* Metodologías: Ágiles (Scrum, Kanban).
+* Frontend: React, Tailwind CSS, Material UI, Bootstrap, Shadcn/UI, JavaScript, HTML, CSS.
+* Backend: Node.js, Express.js, SQL, JWT, REST APIs.
+* Tools: GitHub, Slack, Trello, Figma, Visual Studio Code, Postman.
+* Methodologies: Agile (Scrum, Kanban).
