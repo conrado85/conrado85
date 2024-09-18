@@ -2,7 +2,7 @@
 
 👀 **I’m interested in:** Web development and technologies such as HTML, CSS, JavaScript, Node.js, Express.js, Next.js, React, DaisyUI, shadcn/ui, Material UI, React Icons, React Router, and React Hook Form.
 
-🌱 **I’m currently learning:** Advanced techniques in React, state management, and backend development with Node.js and Express.js.
+🌱 **I’m currently learning:** Advanced techniques in React, state management, and backend development with Node.js, Express.js and postman.
 
 💞️ **I’m looking to collaborate on:** Software solutions for businesses, especially in web development projects that can improve efficiency and user experience.
 
@@ -12,3 +12,6 @@
 - GitHub: [conrado85](https://github.com/conrado85)
 
 # ![Banner](port-4.jpg)
+<p align="center">
+  <img src="port-4.jpg.jpg" alt="Banner" width="600" height="200">
+</p>
