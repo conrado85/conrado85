@@ -1,81 +1,75 @@
 # ![Banner](banner-01.jpg)
-# 👋 Hi, I’m Conrado (@conrado85)
+# 👋 Hola, soy Conrado Desarrollador Web 
 
-👀 **I’m interested in:** Web development and technologies such as HTML, CSS, JavaScript, Node.js, Express.js, Next.js, React, DaisyUI, shadcn/ui, Material UI, React Icons, React Router, and React Hook Form.
+Desarrollador web en formación, orientado al desarrollo de aplicaciones web y soluciones Full Stack. Experiencia práctica en la construcción de interfaces con React, TypeScript y Tailwind CSS, así como en el desarrollo de servicios backend con Node.js, Express y APIs REST.
 
-🌱 **I’m currently learning:** Advanced techniques in React, state management, and backend development with Node.js, Express.js and Postman.
+Actualmente trabajo en proyectos personales que integran frontend, backend y bases de datos, aplicando componentes reutilizables, validación de datos, organización del código y control de versiones con Git. Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimientos, participar en proyectos reales y continuar creciendo profesionalmente.
 
-💞️ **I’m looking to collaborate on:** Software solutions for businesses, especially in web development projects that can improve efficiency and user experience.
-
-📫 **How to reach me:**  
+📫 **Como contactarme:**  
 - LinkedIn: [Conrado Carlos Alberto González](https://linkedin.com/in/conrado-carlos-alberto-gonzalez-3a4730b4)  
 - Email: conry.203@gmail.com  
 - GitHub: [conrado85](https://github.com/conrado85)
+- portafolio: [Conrado Carlos Alberto González](https://conrado85.github.io/portafolio/)
+
+
+
 
 ***
 
-# 👋 About me.
+# PROYECTOS PERSONALES.
 
-**I am a web developer** focused on problem-solving, with experience in both frontend and backend. I am interested in collaborating on projects that drive technological innovation and add value to companies through the use of modern technologies.
+ ## **Control Parenta** - Aplicación en desarrollo (2026)
 
-***
+**Tecnologías**: React Native, Expo, TypeScript, Node.js, Express, Prisma, PostgreSQL y Supabase.
 
-# 👀 Work Experience.
+* Configuración de un monorepo con npm Workspaces para organizar aplicaciones y paquetes compartidos.
+* Desarrollo de una API backend con Express y TypeScript.
+* Implementación de rutas, controladores, servicios y validación de datos con Zod.
+* Configuración de Prisma y conexión con una base de datos PostgreSQL alojada en Supabase.
+* Preparación de la estructura de la aplicación móvil con React Native y Expo.
 
- ## **No Country** - Work Simulation (2024)
 
-* Participated in design development.
-* Collaborated in the layout and development of user interfaces using React and Tailwind CSS.
-* Integrated REST APIs to connect the frontend with the backend, improving system communication by 20%.
-* Implemented optimization techniques such as lazy loading and image compression, reducing application load times by 15%.
 
-# 👋 Education.
+## **Moccia Pas — Sitio web en desarrollo** (2026)
+**Tecnologías**: React, JSX y Tailwind CSS.
 
-## **Digital House** (2023)
+* Conversión de estructuras HTML a componentes React reutilizables.
+* Implementación de estilos y adaptación de interfaces mediante clases de Tailwind CSS.
+* Construcción y organización de secciones de una página web.
+ 
 
-* ### Full Stack Web Developer - Graduate.
-    * Designed a website adapted to different devices.
-    * Applied best practices in project management.
-    * Gained expertise in tools for creating client-side validation.
-    * Organized code efficiently and scalable under the MVC design pattern.
-    * Full stack application development with React and Node.js.
-    * Learned how ORM simplifies object persistence in the database and understanding models and their representation of tables.
-    * API creation and SQL database management.
+## **CONOCIMIENTOS TÉCNICOS** 
 
-## **Educación IT** (2017-2021)
+* ### Desarrollador web.
+    *  Frontend
+        * React y JSX.
+        * JavaScript y TypeScript.
+        * Componentes reutilizables, props y hooks.
+        * Tailwind CSS y diseño de interfaces responsive.
+        * Consumo e integración de APIs REST.
+       
 
-* ### Certifications obtained.
-    * Java 
-        * Java fundamentals.
-        * Syntax and semantics.
-        * Control flow structures.
-        * Application of constants and variables.
-        * Writing conditional statements.
-        * Arrays: creation, uses, and arrangements.
-        * Methods: functions and procedures.
+    * Backend
+        * Node.js y Express.
+        * TypeScript en el servidor.
+        * Desarrollo de endpoints y organización de rutas, controladores y servicios.
+        * Validación de datos con Zod.
+        * Prisma ORM y operaciones con bases de datos.
+        
 
-    * Databases
-        * Database fundamentals.
-        * SQL language.
-        * Query structures.
-        * Operators, clauses, and statements.
-        * Data manipulation.
-        * Records and grouping.
-        * Building a database model.
-        * Advanced topics.
+    * Bases de datos y herramientas
+        * PostgreSQL y Supabase.
+        * Git y GitHub.
+        * npm y npm Workspaces.
+        * React Native y Expo.
+        * Fundamentos de desarrollo y mantenimiento de aplicaciones.
+       
+# 👋 EXPERIENCIA PROFESIONAL ANTERIOR.
 
-    * Object-Oriented Programming (OOP)
-        * Fundamentals of the Object Paradigm.
-        * Models, classes, and instances.
-        * How to use constructors.
-        * Visibility and encapsulation.
-        * Inheritance mechanism.
-        * Polymorphism.
-        * Interpreting basic UML diagrams.
+* Experiencia en entornos industriales y operación de maquinaria, con trayectoria en producción, cumplimiento de procedimientos, resolución de problemas y trabajo en equipo.
 
-# 👋 Skills.
+# 👋 EDUCACIÓN.
 
-* Frontend: React, Tailwind CSS, Material UI, Bootstrap, Shadcn/UI, JavaScript, HTML, CSS.
-* Backend: Node.js, Express.js, SQL, JWT, REST APIs.
-* Tools: GitHub, Slack, Trello, Figma, Visual Studio Code, Postman.
-* Methodologies: Agile (Scrum, Kanban).
+* **Técnico Electrónico**
+E.E.S.T. N.º 2 República del Perú — Hurlingham.
+
