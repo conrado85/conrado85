@@ -1,5 +1,5 @@
 # ![Banner](banner-01.jpg)
-# 👋 Hola, soy Conrado Desarrollador Web 
+# 👋 Hola, soy Conrado Desarrollador Full Stack Junior
 
 Desarrollador web en formación, orientado al desarrollo de aplicaciones web y soluciones Full Stack. Experiencia práctica en la construcción de interfaces con React, TypeScript y Tailwind CSS, así como en el desarrollo de servicios backend con Node.js, Express y APIs REST.
 
